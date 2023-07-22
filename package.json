@@ -20,7 +20,11 @@
   "dependencies": {
     "@types/node": "^20.4.3",
     "immer": "^10.0.2",
+    "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10",
     "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4"
   }
 }
