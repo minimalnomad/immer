@@ -1,5 +1,5 @@
 ### immer library test
 
-npm install
-npx tsc
-node dist/app.js
+- `npm install`
+- `npx tsc`
+- `node dist/app.js`
