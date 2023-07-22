@@ -1,0 +1,24 @@
+{
+  "name": "immer",
+  "version": "1.0.0",
+  "description": "immer library test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superdrivee/immer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superdrivee/immer/issues"
+  },
+  "homepage": "https://github.com/superdrivee/immer#readme",
+  "dependencies": {
+    "immer": "^10.0.2",
+    "readline-sync": "^1.4.10"
+  }
+}
